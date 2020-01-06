@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: Abayer-UpperCase-Org
+    provider: github
+    repository: bdd-gh-again
+  name: abayer-uppercase-org-bdd-gh-again
+spec:
+  description: Imported application for Abayer-UpperCase-Org/bdd-gh-again
+  httpCloneURL: https://github.com/Abayer-UpperCase-Org/bdd-gh-again.git
+  org: Abayer-UpperCase-Org
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: bdd-gh-again
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/Abayer-UpperCase-Org/bdd-gh-again.git
