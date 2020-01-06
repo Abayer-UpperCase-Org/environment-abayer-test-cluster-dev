@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/Abayer-UpperCase-Org/bdd-gh-1578239831.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: Abayer-UpperCase-Org
+  repo: bdd-gh-again
+  url: https://github.com/Abayer-UpperCase-Org/bdd-gh-again.git
+  version: ""
+  versionURL: ""
