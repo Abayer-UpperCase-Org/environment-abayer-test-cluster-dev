@@ -1,0 +1,10 @@
+adminUser:
+  password: local:abayer-test-cluster/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: andrew.bayer@gmail.com
+  token: local:abayer-test-cluster/pipelineUser:token
+  username: abayer
+prow:
+  hmacToken: local:abayer-test-cluster/prow:hmacToken
